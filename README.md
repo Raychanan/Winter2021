@@ -11,30 +11,29 @@
 <div><img src="https://www.cs.uic.edu/~ckanich/images/ckanich.jpg" height="240"></div>
 
 
-### Jan 28th - Brooke Foucault Welles
+### Jan 28th - [Brooke Foucault Welles](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/01-28_Foucault-Welles)
 <div><img src="https://cssh.northeastern.edu/wp-content/uploads/2020/01/Brooke-Welles-web-600x800-c-default.jpg" width="240"></div>
 
 
-### Feb 4th - Yinxian Zhang
+### Feb 4th - [Yinxian Zhang](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-04_Zhang)
+<div><img src="headshot_yz.png" width="240"></div>
 
 
-### Feb 11th - Kate Starbird
+### Feb 11th - [Kate Starbird](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-11_Starbird)
 <div><img src = "https://www.hcde.washington.edu/files/people/imgs/starbird-headshot.jpg" width="240"></div>
 
 
-### Feb 18th - Molly Roberts
+### Feb 18th - [Molly Roberts](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-18_Roberts)
 <div><img src = "https://pup-assets.imgix.net/onix/images/margaret_e_roberts.jpg?w=640&h=640&fit=crop&auto=format" width="240"></div>
 
 
-### Feb 25th - Dani Bassett (University of Pennsylvania)
+### Feb 25th - [Danielle Bassett](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-25_Bassett)
 <div><img src = "https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Bassett-Danielle.jpg" width="240"></div>
 
 
-### March 4th - Renee DiResti
+### March 4th - [Renee DiResta](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/03-04_DiResta)
 <div><img src = "https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/renee-diresta.jpg" height="240"></div>
 
-
-### March 11th - TBD
 
 <br>
 <br>
